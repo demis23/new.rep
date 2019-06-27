@@ -1,2 +1,2 @@
-Print("boom");
-Print("new class");
+Print("boom")
+Print("new class")
