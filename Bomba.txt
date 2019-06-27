@@ -1,4 +1,5 @@
-Print("boom");
-Print("new class");
-print("new boom");
-Print("SOAD Song");
+<<<<<<< HEAD
+Print("boom")
+Print("new class")
+print("new boom")
+Print("SOAD Song")
